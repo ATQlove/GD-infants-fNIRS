@@ -59,7 +59,7 @@ Information about the acquired signal is recorded in the dataset, including the 
   + PSD_data_channel_contrast.m: use the data in indiv_fft.mat to determine the difference of the PSD values of each channel and store the information of the channels with differences in xlsx files.
   + Phase_Contrast.m: Process the data, plot the Color Map of each adjacency matrix, and plot the radar map of phase difference.
 
-![Matlab_script](.\File for README\Matlab_script.svg)
+![Matlab_script](.\File\Matlab_script.svg)
 
 ### read_data.m Data read-in
 
@@ -651,23 +651,23 @@ Statistical analysis and its visualization are performed using GraphPad Prism 9 
 
 1. first create the Project, here using Mean, SD, N benchmarks.
 
-![temp1](.\File for README\temp1.png)
+![temp1](.\File\temp1.png)
 
 1. Create multiple forms and pick out the channels from the PSD_data_channel_contrast.m file that yield discrepancies from the parameter_f.xlsx and parameter_m.xlsx files and fill in the forms at:
 
-   ![temp2](.\File for README\temp2.jpg)
+   ![temp2](.\File\temp2.jpg)
 
 2. Click New Analysis to create an analysis and use Unpaired t-test:
 
-   ![temp3](.\File for README\temp3.jpg)
+   ![temp3](.\File\temp3.jpg)
 
 3. Visualization of results plotted against journal requirements.
 
-   ![temp4](.\File for README\temp4.jpg)
+   ![temp4](.\File\temp4.jpg)
 
 4. Create layout and arrange format to meet SCI requirements.
 
-   ![temp5](.\File for README\temp5.jpg)
+   ![temp5](.\File\temp5.jpg)
 
 
 
