@@ -651,23 +651,23 @@ Statistical analysis and its visualization are performed using GraphPad Prism 9 
 
 1. first create the Project, here using Mean, SD, N benchmarks.
 
-![temp1](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/raw/master/File/temp1.png)
+![temp1](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/blob/main/File/temp1.png)
 
 1. Create multiple forms and pick out the channels from the PSD_data_channel_contrast.m file that yield discrepancies from the parameter_f.xlsx and parameter_m.xlsx files and fill in the forms at:
 
-   ![temp2](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/raw/master/File/temp2.jpg)
+   ![temp2](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/blob/main/File/temp2.jpg)
 
 2. Click New Analysis to create an analysis and use Unpaired t-test:
 
-   ![temp3](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/raw/master/File/temp3.jpg)
+   ![temp3](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/blob/main/File/temp3.jpg)
 
 3. Visualization of results plotted against journal requirements.
 
-   ![temp4](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/raw/master/File/temp4.jpg)
+   ![temp4](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/blob/main/File/temp4.jpg)
 
 4. Create layout and arrange format to meet SCI requirements.
 
-   ![temp5](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/raw/master/File/temp5.jpg)
+   ![temp5](https://github.com/ATQlove/Gender-difference-in-functional-activity-of-4-months-old-infants-during-sleep-A-fNIRS-study/blob/main/File/temp5.jpg)
 
 
 
